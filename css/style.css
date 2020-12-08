@@ -25,6 +25,15 @@ header > .container {
   max-width: none; /* 横幅いっぱいに広げる */
 }
 
+.area_logo_header .logo {
+  display: block;
+}
+
+.area_logo_header .logo img {
+  height: 64px;
+  vertical-align: bottom;
+}
+
 header .area_logo_header p {
   color: #fff;
 }
